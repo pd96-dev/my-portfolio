@@ -5,7 +5,7 @@ function Navbar() {
     <>
       <nav className="navbar navbar-expand-lg fixed-top navbarScroll bg-white">
         <div className="container">
-          <a className="navbar-brand" href="#">
+          <a className="navbar-brand" href="www.google.de">
             <em>My Portfolio</em>
           </a>
           <button

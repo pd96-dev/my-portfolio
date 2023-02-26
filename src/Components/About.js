@@ -28,7 +28,7 @@ function About() {
                 </button>
               </a>
               <a
-                href="#"
+                href="www.google.de"
                 className="text-white fw-bold text-decoration-none fs-4 px-3"
                 target="true"
               >
